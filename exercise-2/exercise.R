@@ -10,7 +10,7 @@
 
 
 ## 3. Store the file names in the current working directory into a vector.
-## You can get the names by 'list.file()` command (see help for additional information).
+## You can get the names using 'list.files()` command (see help for additional information).
 ## Use loop to create a vector of file name lengths.
 ## After you have created the vector print the results in the following way:
 ##

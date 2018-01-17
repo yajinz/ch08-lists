@@ -10,8 +10,8 @@
 
 ## Bonus
 
-# Create a variable 'sentence' that has contains a sentence of text (go for something longish).
-# Make it lowercase
+## Create a variable 'sentence' that contains a sentence of text (go for something longish).
+## Make it lowercase
 
 
 # Use the `strsplit()` function to split the sentence into vector of letters.
@@ -25,9 +25,9 @@
 # Use the `unique()` function to get a vector unique letters
 
 
-# Define a function CountOccurances that takes in two parameters: a letter and a vector letters.
-# The function should return how many times that letter occurs in the vector
-# Hint: use a filter!
+## Define a function 'countOccurences' that takes in two parameters: a letter and a vector of letters.
+## The function should return how many times that letter occurs in the vector
+## Hint: use a logical vector as filter.
 
 
 # Call your CountOccurances() function to see how many times the letter 'e' is in your sentence.
