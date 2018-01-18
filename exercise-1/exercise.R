@@ -28,7 +28,7 @@
 
 ### Bonus ###
 # 8. Create a list that has the number of items you ate for each meal
-# Hint: use a loop or the `sappy()` function
+# Hint: use a loop or the `sapply()` function
 
 
 # 9. Write a function that adds pizza to every meal
