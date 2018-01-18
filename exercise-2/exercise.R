@@ -3,11 +3,17 @@
 ## 1. Create a sequence of numbers from 40 to 50.  Store this into a vector.
 ## Write a loop that prints the numbers in a nice way, for instance like
 ##  "element 1 = 40".
-
+number <- 40:50
+for (i in 1:length(number)){
+  cat("element ", i, " = ", number[i],"\n")
+}
 
 ## 2. Create another sequence of numbers and store in a vector.
 ## Write a loop that prints the numbers and their squares in a nice way.
-
+number2 <- 1:10
+for (i in 1:10){
+  cat("element ", i, " = ", number2[i]^2,"\n")
+}
 
 ## 3. Store the file names in the current working directory into a vector.
 ## You can get the names using 'list.files()` command (see help for additional information).
